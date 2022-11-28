@@ -1,0 +1,1 @@
+# AgSolution-AI-based-framework-for-crop-health-monitoring
