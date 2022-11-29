@@ -24,7 +24,6 @@ be added, and the app's functionality can be improved.
 3.The technology is not compatible with drones. It can be further integrated to assist
 farmers in monitoring crop health and increasing yield.
 5. PROJECT OBJECTIVES
-
 Primary Goal
 The primary goal is to design and develop an app that focuses on mobile farming
 technology and addresses the various limitations of Agriculture.
