@@ -32,12 +32,12 @@ Create a web-based system model that can provide agricultural information from
 anywhere and at any time.
 Mobile is used to operate the system model. Each farmer can access the information at
 the same time, eliminating the waste of time and energy.
-3.1 SOFTWARE REQUIREMENTS
+6. SOFTWARE REQUIREMENTS
 • Python
 • TensorFlow
 • PHP
 • HTML & CSS
 • Xampp
-3.2 HARDWARE REQUIREMENTS
+7. HARDWARE REQUIREMENTS
 • Windows/MAC laptop
 • Sensors
