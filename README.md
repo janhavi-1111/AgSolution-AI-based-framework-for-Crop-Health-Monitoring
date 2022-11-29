@@ -39,3 +39,5 @@ the same time, eliminating the waste of time and energy.
 # 7. HARDWARE REQUIREMENTS:
 • Windows/MAC laptop
 • Sensors
+# 7.Conclusion
+An automated and easy to use end-to-end solution is implemented to overcome some of the most difficult challenges faced by farmers in the agricultural domain: precise, immediate, and early diagnosis of crop diseases, crop recommendation based on different factors such as pH, nitrogen, phosphorus, potassium, temperature, relative humidity, crop yield prediction depending on multiple parameters, and determining soil fertility. By analyzing large amounts of data and interpreting the results, machine learning and deep learning frameworks provide a comprehensive picture of the process. Cnn had the highest accuracy of 96.00% in detecting crop diseases.Gradient Boosting outperformed other methods in agricultural yield prediction, with an accuracy of 99.99% . In the crop recommendation system, Bagging achieved a maximum accuracy of 96.56%.Support Vector Machine recorded the maximum accuracy of 95.00% in soil fertility-infertility module.
