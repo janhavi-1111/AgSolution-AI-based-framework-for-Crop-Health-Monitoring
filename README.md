@@ -4,9 +4,7 @@ To design and develop an application using Machine learning and Deep learning
 technology which will focus on farming technology and solve the various constraints
 of the Agriculture Sector.
 2. AREA:
-Domain: AI, ML, Data Science, Cognitive Computing & NLP
-Application Domain: Agriculture
-Research Theme: Environment
+Domain: AI, ML, Data Science, Cognitive Computing & NLP, Application Domain: Agriculture,Research Theme: Environment
 3. PROJECT SCOPE:
 We are developing an application that is comprised of four modules:
 1.The first module is a deep learning model for disease diagnosis that uses artificial
